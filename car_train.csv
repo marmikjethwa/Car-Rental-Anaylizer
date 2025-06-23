@@ -1,0 +1,501 @@
+sr_no,feedback,sentiment
+1,The rental process was just fine.,neutral
+2,"It worked, but not impressed.",neutral
+3,Customer support was helpful and friendly.,positive
+4,Smooth experience from booking to return.,positive
+5,"Average experience, could be better.",neutral
+6,"Great service, the vehicle arrived on time.",positive
+7,Customer support was helpful and friendly.,positive
+8,"Decent service, but room for improvement.",neutral
+9,"Decent service, but room for improvement.",neutral
+10,"Decent service, but room for improvement.",neutral
+11,The rental process was just fine.,neutral
+12,"Decent service, but room for improvement.",neutral
+13,"The car was okay, nothing special.",neutral
+14,"Decent service, but room for improvement.",neutral
+15,"Great service, the vehicle arrived on time.",positive
+16,Vehicle had several mechanical issues.,negative
+17,"It worked, but not impressed.",neutral
+18,Had trouble contacting the service team.,negative
+19,The car was clean and in excellent condition.,positive
+20,Smooth experience from booking to return.,positive
+21,"It worked, but not impressed.",neutral
+22,"Enjoyed the ride, will rent again.",positive
+23,Customer support was helpful and friendly.,positive
+24,Customer support was helpful and friendly.,positive
+25,"The car was okay, nothing special.",neutral
+26,Smooth experience from booking to return.,positive
+27,Not satisfied with the overall experience.,negative
+28,Smooth experience from booking to return.,positive
+29,The rental process was just fine.,neutral
+30,Vehicle had several mechanical issues.,negative
+31,"It worked, but not impressed.",neutral
+32,The car was clean and in excellent condition.,positive
+33,Vehicle had several mechanical issues.,negative
+34,"The car was okay, nothing special.",neutral
+35,Customer support was helpful and friendly.,positive
+36,"Great service, the vehicle arrived on time.",positive
+37,"Decent service, but room for improvement.",neutral
+38,Smooth experience from booking to return.,positive
+39,Smooth experience from booking to return.,positive
+40,"Poor customer service, had to wait too long.",negative
+41,"Decent service, but room for improvement.",neutral
+42,"It worked, but not impressed.",neutral
+43,Not satisfied with the overall experience.,negative
+44,Smooth experience from booking to return.,positive
+45,The car arrived late and was not clean.,negative
+46,"Great service, the vehicle arrived on time.",positive
+47,"Great service, the vehicle arrived on time.",positive
+48,Customer support was helpful and friendly.,positive
+49,"Poor customer service, had to wait too long.",negative
+50,Vehicle had several mechanical issues.,negative
+51,"Poor customer service, had to wait too long.",negative
+52,Customer support was helpful and friendly.,positive
+53,"Decent service, but room for improvement.",neutral
+54,"Decent service, but room for improvement.",neutral
+55,"Decent service, but room for improvement.",neutral
+56,The rental process was just fine.,neutral
+57,Not satisfied with the overall experience.,negative
+58,"It worked, but not impressed.",neutral
+59,Vehicle had several mechanical issues.,negative
+60,"Average experience, could be better.",neutral
+61,"Decent service, but room for improvement.",neutral
+62,Customer support was helpful and friendly.,positive
+63,Vehicle had several mechanical issues.,negative
+64,Vehicle had several mechanical issues.,negative
+65,Not satisfied with the overall experience.,negative
+66,Smooth experience from booking to return.,positive
+67,"Average experience, could be better.",neutral
+68,The car arrived late and was not clean.,negative
+69,"Average experience, could be better.",neutral
+70,"It worked, but not impressed.",neutral
+71,Had trouble contacting the service team.,negative
+72,"It worked, but not impressed.",neutral
+73,"Average experience, could be better.",neutral
+74,The car arrived late and was not clean.,negative
+75,Had trouble contacting the service team.,negative
+76,Smooth experience from booking to return.,positive
+77,Vehicle had several mechanical issues.,negative
+78,"Average experience, could be better.",neutral
+79,"Great service, the vehicle arrived on time.",positive
+80,Vehicle had several mechanical issues.,negative
+81,"Enjoyed the ride, will rent again.",positive
+82,"Great service, the vehicle arrived on time.",positive
+83,"Great service, the vehicle arrived on time.",positive
+84,Not satisfied with the overall experience.,negative
+85,Not satisfied with the overall experience.,negative
+86,"Enjoyed the ride, will rent again.",positive
+87,"Enjoyed the ride, will rent again.",positive
+88,Had trouble contacting the service team.,negative
+89,"Enjoyed the ride, will rent again.",positive
+90,"Great service, the vehicle arrived on time.",positive
+91,The car arrived late and was not clean.,negative
+92,"Poor customer service, had to wait too long.",negative
+93,Customer support was helpful and friendly.,positive
+94,Customer support was helpful and friendly.,positive
+95,Not satisfied with the overall experience.,negative
+96,The car arrived late and was not clean.,negative
+97,"The car was okay, nothing special.",neutral
+98,Customer support was helpful and friendly.,positive
+99,"Enjoyed the ride, will rent again.",positive
+100,The car was clean and in excellent condition.,positive
+101,"Enjoyed the ride, will rent again.",positive
+102,"Average experience, could be better.",neutral
+103,"The car was okay, nothing special.",neutral
+104,The car was clean and in excellent condition.,positive
+105,Not satisfied with the overall experience.,negative
+106,"It worked, but not impressed.",neutral
+107,"Decent service, but room for improvement.",neutral
+108,Customer support was helpful and friendly.,positive
+109,Customer support was helpful and friendly.,positive
+110,"Poor customer service, had to wait too long.",negative
+111,Customer support was helpful and friendly.,positive
+112,"Great service, the vehicle arrived on time.",positive
+113,Not satisfied with the overall experience.,negative
+114,"Enjoyed the ride, will rent again.",positive
+115,"It worked, but not impressed.",neutral
+116,"Enjoyed the ride, will rent again.",positive
+117,"Average experience, could be better.",neutral
+118,"Decent service, but room for improvement.",neutral
+119,"Average experience, could be better.",neutral
+120,Not satisfied with the overall experience.,negative
+121,Had trouble contacting the service team.,negative
+122,The rental process was just fine.,neutral
+123,"The car was okay, nothing special.",neutral
+124,"Poor customer service, had to wait too long.",negative
+125,The car was clean and in excellent condition.,positive
+126,The car arrived late and was not clean.,negative
+127,"Average experience, could be better.",neutral
+128,Not satisfied with the overall experience.,negative
+129,Customer support was helpful and friendly.,positive
+130,Smooth experience from booking to return.,positive
+131,"Enjoyed the ride, will rent again.",positive
+132,"It worked, but not impressed.",neutral
+133,"Poor customer service, had to wait too long.",negative
+134,The car arrived late and was not clean.,negative
+135,The car was clean and in excellent condition.,positive
+136,Smooth experience from booking to return.,positive
+137,Customer support was helpful and friendly.,positive
+138,"Enjoyed the ride, will rent again.",positive
+139,"The car was okay, nothing special.",neutral
+140,Smooth experience from booking to return.,positive
+141,Customer support was helpful and friendly.,positive
+142,"Enjoyed the ride, will rent again.",positive
+143,"Great service, the vehicle arrived on time.",positive
+144,"Great service, the vehicle arrived on time.",positive
+145,The rental process was just fine.,neutral
+146,Vehicle had several mechanical issues.,negative
+147,The rental process was just fine.,neutral
+148,The car was clean and in excellent condition.,positive
+149,"Poor customer service, had to wait too long.",negative
+150,The rental process was just fine.,neutral
+151,"It worked, but not impressed.",neutral
+152,The car was clean and in excellent condition.,positive
+153,"Decent service, but room for improvement.",neutral
+154,"Average experience, could be better.",neutral
+155,The car was clean and in excellent condition.,positive
+156,"Average experience, could be better.",neutral
+157,Customer support was helpful and friendly.,positive
+158,"Great service, the vehicle arrived on time.",positive
+159,Had trouble contacting the service team.,negative
+160,"Enjoyed the ride, will rent again.",positive
+161,"It worked, but not impressed.",neutral
+162,Had trouble contacting the service team.,negative
+163,Vehicle had several mechanical issues.,negative
+164,"It worked, but not impressed.",neutral
+165,"Great service, the vehicle arrived on time.",positive
+166,"It worked, but not impressed.",neutral
+167,Smooth experience from booking to return.,positive
+168,The car was clean and in excellent condition.,positive
+169,"Enjoyed the ride, will rent again.",positive
+170,"Great service, the vehicle arrived on time.",positive
+171,The car was clean and in excellent condition.,positive
+172,"Great service, the vehicle arrived on time.",positive
+173,The car arrived late and was not clean.,negative
+174,The car arrived late and was not clean.,negative
+175,"Average experience, could be better.",neutral
+176,Not satisfied with the overall experience.,negative
+177,Customer support was helpful and friendly.,positive
+178,Not satisfied with the overall experience.,negative
+179,"The car was okay, nothing special.",neutral
+180,"Enjoyed the ride, will rent again.",positive
+181,"Great service, the vehicle arrived on time.",positive
+182,"Decent service, but room for improvement.",neutral
+183,The rental process was just fine.,neutral
+184,"Poor customer service, had to wait too long.",negative
+185,"Average experience, could be better.",neutral
+186,"It worked, but not impressed.",neutral
+187,The car arrived late and was not clean.,negative
+188,"Decent service, but room for improvement.",neutral
+189,"The car was okay, nothing special.",neutral
+190,"Decent service, but room for improvement.",neutral
+191,"It worked, but not impressed.",neutral
+192,Had trouble contacting the service team.,negative
+193,"Poor customer service, had to wait too long.",negative
+194,"Great service, the vehicle arrived on time.",positive
+195,"It worked, but not impressed.",neutral
+196,"Enjoyed the ride, will rent again.",positive
+197,"Poor customer service, had to wait too long.",negative
+198,The car arrived late and was not clean.,negative
+199,Smooth experience from booking to return.,positive
+200,The car arrived late and was not clean.,negative
+201,The car arrived late and was not clean.,negative
+202,Smooth experience from booking to return.,positive
+203,"Decent service, but room for improvement.",neutral
+204,The car arrived late and was not clean.,negative
+205,Not satisfied with the overall experience.,negative
+206,"Average experience, could be better.",neutral
+207,Not satisfied with the overall experience.,negative
+208,"It worked, but not impressed.",neutral
+209,Smooth experience from booking to return.,positive
+210,The car was clean and in excellent condition.,positive
+211,Had trouble contacting the service team.,negative
+212,"The car was okay, nothing special.",neutral
+213,Vehicle had several mechanical issues.,negative
+214,The rental process was just fine.,neutral
+215,The car was clean and in excellent condition.,positive
+216,"It worked, but not impressed.",neutral
+217,Vehicle had several mechanical issues.,negative
+218,The car was clean and in excellent condition.,positive
+219,"Average experience, could be better.",neutral
+220,"It worked, but not impressed.",neutral
+221,Smooth experience from booking to return.,positive
+222,"It worked, but not impressed.",neutral
+223,"It worked, but not impressed.",neutral
+224,Smooth experience from booking to return.,positive
+225,The rental process was just fine.,neutral
+226,The car arrived late and was not clean.,negative
+227,The rental process was just fine.,neutral
+228,The car arrived late and was not clean.,negative
+229,Vehicle had several mechanical issues.,negative
+230,Vehicle had several mechanical issues.,negative
+231,"It worked, but not impressed.",neutral
+232,"Enjoyed the ride, will rent again.",positive
+233,"Great service, the vehicle arrived on time.",positive
+234,"Poor customer service, had to wait too long.",negative
+235,"Enjoyed the ride, will rent again.",positive
+236,Vehicle had several mechanical issues.,negative
+237,Not satisfied with the overall experience.,negative
+238,The rental process was just fine.,neutral
+239,Smooth experience from booking to return.,positive
+240,"Decent service, but room for improvement.",neutral
+241,The car arrived late and was not clean.,negative
+242,"It worked, but not impressed.",neutral
+243,"Enjoyed the ride, will rent again.",positive
+244,"Average experience, could be better.",neutral
+245,The car was clean and in excellent condition.,positive
+246,Not satisfied with the overall experience.,negative
+247,Customer support was helpful and friendly.,positive
+248,"Enjoyed the ride, will rent again.",positive
+249,"It worked, but not impressed.",neutral
+250,Smooth experience from booking to return.,positive
+251,Smooth experience from booking to return.,positive
+252,The car was clean and in excellent condition.,positive
+253,"It worked, but not impressed.",neutral
+254,"Enjoyed the ride, will rent again.",positive
+255,"Great service, the vehicle arrived on time.",positive
+256,Not satisfied with the overall experience.,negative
+257,"Great service, the vehicle arrived on time.",positive
+258,"Average experience, could be better.",neutral
+259,Smooth experience from booking to return.,positive
+260,"Great service, the vehicle arrived on time.",positive
+261,Not satisfied with the overall experience.,negative
+262,"It worked, but not impressed.",neutral
+263,Smooth experience from booking to return.,positive
+264,"Decent service, but room for improvement.",neutral
+265,"Great service, the vehicle arrived on time.",positive
+266,Smooth experience from booking to return.,positive
+267,"Decent service, but room for improvement.",neutral
+268,Had trouble contacting the service team.,negative
+269,The car was clean and in excellent condition.,positive
+270,Customer support was helpful and friendly.,positive
+271,"Great service, the vehicle arrived on time.",positive
+272,Vehicle had several mechanical issues.,negative
+273,Customer support was helpful and friendly.,positive
+274,The car arrived late and was not clean.,negative
+275,"Great service, the vehicle arrived on time.",positive
+276,"It worked, but not impressed.",neutral
+277,Vehicle had several mechanical issues.,negative
+278,"Great service, the vehicle arrived on time.",positive
+279,Smooth experience from booking to return.,positive
+280,Vehicle had several mechanical issues.,negative
+281,"Decent service, but room for improvement.",neutral
+282,"Decent service, but room for improvement.",neutral
+283,Had trouble contacting the service team.,negative
+284,"It worked, but not impressed.",neutral
+285,"Great service, the vehicle arrived on time.",positive
+286,Vehicle had several mechanical issues.,negative
+287,The car was clean and in excellent condition.,positive
+288,"Poor customer service, had to wait too long.",negative
+289,The rental process was just fine.,neutral
+290,"Enjoyed the ride, will rent again.",positive
+291,"Enjoyed the ride, will rent again.",positive
+292,"Average experience, could be better.",neutral
+293,Smooth experience from booking to return.,positive
+294,"Poor customer service, had to wait too long.",negative
+295,"Enjoyed the ride, will rent again.",positive
+296,The car was clean and in excellent condition.,positive
+297,"Enjoyed the ride, will rent again.",positive
+298,"It worked, but not impressed.",neutral
+299,"Decent service, but room for improvement.",neutral
+300,The rental process was just fine.,neutral
+301,"Great service, the vehicle arrived on time.",positive
+302,"The car was okay, nothing special.",neutral
+303,"Great service, the vehicle arrived on time.",positive
+304,The car arrived late and was not clean.,negative
+305,Had trouble contacting the service team.,negative
+306,The car was clean and in excellent condition.,positive
+307,Customer support was helpful and friendly.,positive
+308,"Decent service, but room for improvement.",neutral
+309,"The car was okay, nothing special.",neutral
+310,"Great service, the vehicle arrived on time.",positive
+311,The car was clean and in excellent condition.,positive
+312,Not satisfied with the overall experience.,negative
+313,"Great service, the vehicle arrived on time.",positive
+314,The car was clean and in excellent condition.,positive
+315,The car arrived late and was not clean.,negative
+316,"The car was okay, nothing special.",neutral
+317,"It worked, but not impressed.",neutral
+318,Had trouble contacting the service team.,negative
+319,"Enjoyed the ride, will rent again.",positive
+320,"Great service, the vehicle arrived on time.",positive
+321,"Average experience, could be better.",neutral
+322,"Enjoyed the ride, will rent again.",positive
+323,The rental process was just fine.,neutral
+324,Smooth experience from booking to return.,positive
+325,The car arrived late and was not clean.,negative
+326,The rental process was just fine.,neutral
+327,The car arrived late and was not clean.,negative
+328,The car was clean and in excellent condition.,positive
+329,The car arrived late and was not clean.,negative
+330,Had trouble contacting the service team.,negative
+331,Smooth experience from booking to return.,positive
+332,The rental process was just fine.,neutral
+333,Smooth experience from booking to return.,positive
+334,"The car was okay, nothing special.",neutral
+335,Had trouble contacting the service team.,negative
+336,Had trouble contacting the service team.,negative
+337,Smooth experience from booking to return.,positive
+338,The car arrived late and was not clean.,negative
+339,Customer support was helpful and friendly.,positive
+340,"It worked, but not impressed.",neutral
+341,"The car was okay, nothing special.",neutral
+342,The car was clean and in excellent condition.,positive
+343,The car was clean and in excellent condition.,positive
+344,"Poor customer service, had to wait too long.",negative
+345,"Average experience, could be better.",neutral
+346,"Great service, the vehicle arrived on time.",positive
+347,The car arrived late and was not clean.,negative
+348,Customer support was helpful and friendly.,positive
+349,"Poor customer service, had to wait too long.",negative
+350,Not satisfied with the overall experience.,negative
+351,Vehicle had several mechanical issues.,negative
+352,"Poor customer service, had to wait too long.",negative
+353,The rental process was just fine.,neutral
+354,"Decent service, but room for improvement.",neutral
+355,"Average experience, could be better.",neutral
+356,"Enjoyed the ride, will rent again.",positive
+357,"Decent service, but room for improvement.",neutral
+358,"It worked, but not impressed.",neutral
+359,Smooth experience from booking to return.,positive
+360,Smooth experience from booking to return.,positive
+361,The car arrived late and was not clean.,negative
+362,"Decent service, but room for improvement.",neutral
+363,The car was clean and in excellent condition.,positive
+364,Had trouble contacting the service team.,negative
+365,"Average experience, could be better.",neutral
+366,Smooth experience from booking to return.,positive
+367,Not satisfied with the overall experience.,negative
+368,"Enjoyed the ride, will rent again.",positive
+369,Vehicle had several mechanical issues.,negative
+370,"Enjoyed the ride, will rent again.",positive
+371,"Great service, the vehicle arrived on time.",positive
+372,Smooth experience from booking to return.,positive
+373,Customer support was helpful and friendly.,positive
+374,"It worked, but not impressed.",neutral
+375,Vehicle had several mechanical issues.,negative
+376,"Great service, the vehicle arrived on time.",positive
+377,Vehicle had several mechanical issues.,negative
+378,The rental process was just fine.,neutral
+379,Vehicle had several mechanical issues.,negative
+380,"Decent service, but room for improvement.",neutral
+381,"Decent service, but room for improvement.",neutral
+382,Customer support was helpful and friendly.,positive
+383,"Enjoyed the ride, will rent again.",positive
+384,Not satisfied with the overall experience.,negative
+385,"It worked, but not impressed.",neutral
+386,Customer support was helpful and friendly.,positive
+387,Customer support was helpful and friendly.,positive
+388,"Average experience, could be better.",neutral
+389,The car arrived late and was not clean.,negative
+390,"Average experience, could be better.",neutral
+391,The car was clean and in excellent condition.,positive
+392,"Average experience, could be better.",neutral
+393,The car arrived late and was not clean.,negative
+394,Smooth experience from booking to return.,positive
+395,Smooth experience from booking to return.,positive
+396,"Enjoyed the ride, will rent again.",positive
+397,"Average experience, could be better.",neutral
+398,"The car was okay, nothing special.",neutral
+399,Had trouble contacting the service team.,negative
+400,"Average experience, could be better.",neutral
+401,Had trouble contacting the service team.,negative
+402,"Poor customer service, had to wait too long.",negative
+403,Smooth experience from booking to return.,positive
+404,Customer support was helpful and friendly.,positive
+405,Customer support was helpful and friendly.,positive
+406,"Enjoyed the ride, will rent again.",positive
+407,"It worked, but not impressed.",neutral
+408,The car was clean and in excellent condition.,positive
+409,Had trouble contacting the service team.,negative
+410,"Average experience, could be better.",neutral
+411,"Poor customer service, had to wait too long.",negative
+412,"It worked, but not impressed.",neutral
+413,Had trouble contacting the service team.,negative
+414,The rental process was just fine.,neutral
+415,Customer support was helpful and friendly.,positive
+416,The car was clean and in excellent condition.,positive
+417,Smooth experience from booking to return.,positive
+418,"The car was okay, nothing special.",neutral
+419,"Great service, the vehicle arrived on time.",positive
+420,"The car was okay, nothing special.",neutral
+421,"Great service, the vehicle arrived on time.",positive
+422,"Enjoyed the ride, will rent again.",positive
+423,"Poor customer service, had to wait too long.",negative
+424,"Enjoyed the ride, will rent again.",positive
+425,"Decent service, but room for improvement.",neutral
+426,Vehicle had several mechanical issues.,negative
+427,Customer support was helpful and friendly.,positive
+428,Customer support was helpful and friendly.,positive
+429,The car arrived late and was not clean.,negative
+430,The rental process was just fine.,neutral
+431,Had trouble contacting the service team.,negative
+432,The car arrived late and was not clean.,negative
+433,Had trouble contacting the service team.,negative
+434,Had trouble contacting the service team.,negative
+435,Had trouble contacting the service team.,negative
+436,Vehicle had several mechanical issues.,negative
+437,"Decent service, but room for improvement.",neutral
+438,Not satisfied with the overall experience.,negative
+439,"Enjoyed the ride, will rent again.",positive
+440,Not satisfied with the overall experience.,negative
+441,Vehicle had several mechanical issues.,negative
+442,Vehicle had several mechanical issues.,negative
+443,Had trouble contacting the service team.,negative
+444,The car arrived late and was not clean.,negative
+445,"Poor customer service, had to wait too long.",negative
+446,"Great service, the vehicle arrived on time.",positive
+447,The car arrived late and was not clean.,negative
+448,Smooth experience from booking to return.,positive
+449,"Poor customer service, had to wait too long.",negative
+450,The car arrived late and was not clean.,negative
+451,Not satisfied with the overall experience.,negative
+452,"Poor customer service, had to wait too long.",negative
+453,The rental process was just fine.,neutral
+454,"The car was okay, nothing special.",neutral
+455,"Poor customer service, had to wait too long.",negative
+456,"Great service, the vehicle arrived on time.",positive
+457,"Average experience, could be better.",neutral
+458,"Enjoyed the ride, will rent again.",positive
+459,Had trouble contacting the service team.,negative
+460,"Average experience, could be better.",neutral
+461,Smooth experience from booking to return.,positive
+462,Not satisfied with the overall experience.,negative
+463,Smooth experience from booking to return.,positive
+464,"Great service, the vehicle arrived on time.",positive
+465,Customer support was helpful and friendly.,positive
+466,"It worked, but not impressed.",neutral
+467,"Enjoyed the ride, will rent again.",positive
+468,Customer support was helpful and friendly.,positive
+469,Smooth experience from booking to return.,positive
+470,Customer support was helpful and friendly.,positive
+471,Customer support was helpful and friendly.,positive
+472,Customer support was helpful and friendly.,positive
+473,"Enjoyed the ride, will rent again.",positive
+474,"Great service, the vehicle arrived on time.",positive
+475,Customer support was helpful and friendly.,positive
+476,"Great service, the vehicle arrived on time.",positive
+477,Customer support was helpful and friendly.,positive
+478,The rental process was just fine.,neutral
+479,"Average experience, could be better.",neutral
+480,Not satisfied with the overall experience.,negative
+481,"Great service, the vehicle arrived on time.",positive
+482,The car arrived late and was not clean.,negative
+483,"It worked, but not impressed.",neutral
+484,Not satisfied with the overall experience.,negative
+485,"Poor customer service, had to wait too long.",negative
+486,Smooth experience from booking to return.,positive
+487,"Poor customer service, had to wait too long.",negative
+488,The car arrived late and was not clean.,negative
+489,"Average experience, could be better.",neutral
+490,"Decent service, but room for improvement.",neutral
+491,"Average experience, could be better.",neutral
+492,Customer support was helpful and friendly.,positive
+493,The car was clean and in excellent condition.,positive
+494,"Poor customer service, had to wait too long.",negative
+495,"Average experience, could be better.",neutral
+496,Not satisfied with the overall experience.,negative
+497,Customer support was helpful and friendly.,positive
+498,The car arrived late and was not clean.,negative
+499,"Average experience, could be better.",neutral
+500,Had trouble contacting the service team.,negative
